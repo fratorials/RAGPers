@@ -1,5 +1,6 @@
 # RAGPers
-Un RAG personale per studiare, totalmente offline, molto basico
+Un RAG personale per studiare, totalmente offline, molto basico.
+Crea una cartella dove mettere i documenti che lui deve imparare, è molto specifico ma a volte può sbagliare.
 
 ## Istruzioni per il RAG
 
